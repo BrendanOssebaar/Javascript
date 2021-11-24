@@ -8,6 +8,23 @@
     <link rel="stylesheet" href="Style.css">
 </head>
 <body>
-    <h1>Museum online javascript</h1>
+    <h1 id="Header">Museum online javascript</h1>
+    <p id="mkrood">Maak achtergrond rood</p>
+    <script>
+        const Header = document.getElementById("Header")
+        Header.style.backgroundColor = "red";
+        Header.addEventListener('click',voeruitHeader);
+        function voeruitHeader(){
+            Header.style.backgroundColor = "yellow"
+            Header.style.color = "red";
+        }
+        const mkrood = document.getElementById('mkrood');
+        mkrood.addEventListener('click',voeruitmkrood,)
+        function voeruitmkrood(){
+            document.body.style.backgroundColor = "green";
+            document.body.style.color = "red";
+            Header.style.backgroundColor = "blue"
+        }
+    </script>
 </body>
 </html>
