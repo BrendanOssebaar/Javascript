@@ -1,0 +1,25 @@
+body {
+    background-color: greenyellow;
+}
+#koelkast {
+    background-color: orange;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 10px;
+}
+section {
+    border: 2px solid black;
+    padding: 10px;
+    min-height: 200px;
+}
+h2 {
+    margin: 0 0 10px 0;
+}
+button {
+    padding: 10px 20px;
+    background-color: purple;
+    color: chocolate;
+    font-size: 18px;
+    border: 2px solid black;
+}
