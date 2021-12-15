@@ -5,3 +5,5 @@
 [Booschappen](https://34114.hosts1.ma-cloud.nl/Boodschappen/Boodschappen.html)
 
 [Slideshow](https://34114.hosts1.ma-cloud.nl/Gallery/index.html)
+
+[Tentoonstelling](https://34114.hosts1.ma-cloud.nl/Tentoonstelling/index.html)
