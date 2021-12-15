@@ -1,0 +1,9 @@
+body{
+    background-color: cadetblue;
+}
+#container{
+    background-color: cyan;
+    width: 60vw;
+    height: 500px;
+    margin: auto;
+}
