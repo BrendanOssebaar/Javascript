@@ -14,6 +14,14 @@
             <div id="title"></div>
             <input type="text" id="myInput" autocomplete="off">
             <input type="button" value="Go" onclick="getInput()">
+            <h3>Kies welke richting je op wilt:</h3>
+            <nav>
+                <button id="knopNoord" onclick="goDirection('noord')">Noord</button>
+                <button id="knopOos" onclick="goDirection('oost')">Oost</button>
+                <button id="knowZuid" onclick="goDirection('zuid')">Zuid</button>
+                <button id="knopWest" onclick="goDirection('west')">West</button>
+            </nav>
+            <img src="img/map_compass.png" alt="Kaart met alle locaties" id="mapImage">
         </div>
     
     
