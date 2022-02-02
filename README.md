@@ -8,6 +8,6 @@
 
 [Tentoonstelling](https://34114.hosts1.ma-cloud.nl/Tentoonstelling/index.html)
 
-[Seasons](https://https://34114.hosts1.ma-cloud.nl/Seasons/index.html)
+[Seasons](https://34114.hosts1.ma-cloud.nl/Seasons/index.html)
 
-[SilverBulletAdventure]()
+[SilverBulletAdventure](https://34114.hosts1.ma-cloud.nl/SilverbulletAdventure/index.html)
