@@ -10,6 +10,13 @@ header{
     padding: 20px;
     top: 0;
 }
+section > ul > #Projects1{
+    margin: 20px;
+    padding: 10px;
+    background-color: darkgray;
+    width: 200px;
+    border-radius: 10px;
+}
 section > ul >#Projects{
     margin: 20px;
     padding: 10px;
