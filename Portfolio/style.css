@@ -14,21 +14,26 @@ section > ul >#Projects{
     margin: 20px;
     padding: 10px;
     background-color: darkgray;
-    width: 150px;
+    width: 200px;
     border-radius: 10px;
 }
-section > ul >#Projects > h3{
-    padding: 0;
-    margin: 0;
-}   
+
 section > ul > #Everything {
     margin: 20px;
     padding: 10px;
     background-color: darkgray;
-    width: 150px;
+    width: 200px;
     border-radius: 10px;
 } 
-section > ul > #Everything > h3{
+
+section > ul > #Periode2{
+    margin: 20px;
+    padding: 10px;
+    background-color: darkgray;
+    width: 200px;
+    border-radius: 10px;
+}
+h3{
     padding: 0;
     margin: 0;
 }
@@ -42,7 +47,7 @@ a{
     padding: 10px;
     display: flex;
     flex-direction: column;
-    width: 100px;
+    width: 140px;
     transition-duration: 0.3s;
 }
 a:hover{
