@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color: gray;
+}
+header{
+    height: 50px;
+    width: 100vw;
+    background-color: darkgray;
+    margin:auto;
+    padding: 20px;
+    top: 0;
+}
+section > ul >#Projects{
+    margin: 20px;
+    padding: 10px;
+    background-color: darkgray;
+    width: 150px;
+    border-radius: 10px;
+}
+section > ul >#Projects > h3{
+    padding: 0;
+    margin: 0;
+}   
+section > ul > #Everything {
+    margin: 20px;
+    padding: 10px;
+    background-color: darkgray;
+    width: 150px;
+    border-radius: 10px;
+} 
+section > ul > #Everything > h3{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border: black solid;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    transition-duration: 0.3s;
+}
+a:hover{
+    background-color: darkred;
+    color: white;
+}
